@@ -6,8 +6,8 @@ The goal is to strengthen practical knowledge of Snowflake by working through re
 
 ## 🎯 Objectives
 
-- Practice **Snowflake fundamentals**
-- Work with **real-world datasets**
+- Practice **Snowflake**
+- Work with **curated datasets**
 - Improve **SQL and data modeling skills**
 - Explore **data pipelines and transformations**
 - Build a portfolio of **case studies**
